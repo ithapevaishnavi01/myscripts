@@ -17,3 +17,4 @@ echo "name is $name"
 
 hostname=$(hostname)
 echo "name of the machine $hostname"
+
