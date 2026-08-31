@@ -2,6 +2,7 @@
 
 for i in 1 2 3 56 7 8 6 4 
 do
+
 	echo "no is $i"
 done
 
